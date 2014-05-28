@@ -15,6 +15,6 @@ Opaque game mode:
 
 Wireframe game mode:
 
-.. image:: https://raw.githubusercontent.com/MisanthropicBit/sdl_opengl_asteroids/master/Screenshots/WireFrameMode.png
+.. image:: https://raw.githubusercontent.com/MisanthropicBit/sdl_opengl_asteroids/master/Screenshots/WireframeMode.png
 
 And a short `YouTube video <https://www.youtube.com/watch?v=d26Lo8ls_6U>`_ :)
