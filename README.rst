@@ -8,19 +8,18 @@ original Asteroids game.
 Controls
 --------
 
-[UP]   : Thrust forward in facing direction
-[LEFT] : Rotate left
-[RIGHT]: Rotate right
-[x]    : Shoot
-[d]    : Toggle debug lines
-[w]    : Toggle wire-frame mode
-[ESC]  : Return to main menu
+- [UP]   : Thrust forward in facing direction
+- [LEFT] : Rotate left
+- [RIGHT]: Rotate right
+- [x]    : Shoot
+- [d]    : Toggle debug lines
+- [w]    : Toggle wire-frame mode
+- [ESC]  : Return to main menu
 
 Media
 -----
 
-You can watch a short `YouTube video <https://www.youtube.com/watch?v=d26Lo8ls_6U>`_ of the game, or
-view the screenshots below:
+Here's a short `YouTube video <https://www.youtube.com/watch?v=d26Lo8ls_6U>`_ of the game, and some screenshots:
 
 .. image:: https://raw.githubusercontent.com/MisanthropicBit/sdl_opengl_asteroids/master/Screenshots/Menu.png
 
@@ -31,5 +30,3 @@ Opaque game mode:
 Wireframe game mode:
 
 .. image:: https://raw.githubusercontent.com/MisanthropicBit/sdl_opengl_asteroids/master/Screenshots/WireframeMode.png
-
-And a short `YouTube video <https://www.youtube.com/watch?v=d26Lo8ls_6U>`_ :)
