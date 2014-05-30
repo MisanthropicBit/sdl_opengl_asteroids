@@ -1,9 +1,13 @@
 Asteroids clone in C++, SDL and OpenGL
 ======================================
 
+**A remake of the classic Asteroids game, but with a twist: Your plasma gun slices asteroids in halves!**
+
 An old project I made for learning SDL and OpenGL. Asteroids are sliced into two new
 asteroids instead of breaking into two smaller, similarly shaped asteroids as in the
 original Asteroids game.
+
+This project is also hosted on `Google code <https://code.google.com/p/sdl-opengl-asteroids/>`_.
 
 Controls
 --------
@@ -15,6 +19,11 @@ Controls
 - [d]    : Toggle debug lines
 - [w]    : Toggle wire-frame mode
 - [ESC]  : Return to main menu
+
+Dependencies
+------------
+
+This game requires SDL, SDL_image, SDL_mixer and OpenGL.
 
 Media
 -----
